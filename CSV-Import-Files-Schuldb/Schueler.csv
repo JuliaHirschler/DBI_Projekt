@@ -1,0 +1,483 @@
+S_Nr;S_Zuname;S_Vorname;S_Geschlecht;S_Gebdatum;S_Strasse;S_Hausnummer;S_Postleitzahl;S_Postort;S_Religion;S_Staatsbuergerschaft;S_Klasse
+1;Ali;Claudia;2;05-Apr-68;P�lslg.;8-9/15;1020;Wien;;;1AAIF
+2;Amon;Thomas;1;06-J�n-94;Enzersfelderstra�e;3/13;1030;Wien;;;1AAIF
+3;Fejzulovi?;Amra;2;29-Sep-78;Ortschlag;169;9232;Rosegg;;;1AAIF
+4;Hartmann;Mathias;1;01-Aug-98;Landstrasserhauptstr.;1;1110;Wien;;;1AAIF
+5;Horvath;Magdalena;2;11-J�n-97;Hasnerstra�e;3/3;1150;Wien;;;1AAIF
+6;Kaufmann;Martin;1;28-J�n-91;Jedlersdorferstr.;44/19;1030;Wien;;;1AAIF
+7;Kessler;Julia;2;11-Dez-93;Br�ckengasse;1;4600;Wels;;;1AAIF
+8;Knezevic;Dragan;1;23-J�n-97;Akkonplatz;3;9020;Klagenfurt;;;1AAIF
+9;Kn�pfle;Matthias;1;03-Sep-97;Siccardsburggasse;4 8;7464;Althodis;;;1AAIF
+10;Li;Anjie;1;26-Apr-95;Columbusgasse;1/13;1220;Wien;;;1AAIF
+11;Mosallem;Ahmed;1;13-Aug-98;Prof. Robert Kramreiter Ring;5;1040;Wien;;;1AAIF
+12;M�ller;Marco;1;01-Nov-96;Rosenh�gelstr.;27/10;3012;Wolfsgraben;;;1AAIF
+13;Pflegerl;Dominik;1;07-Dez-96;Tivolig.;97/3/11;1220;Wien;;;1AAIF
+14;Ranisavljevic;Jovan;1;03-Nov-95;Simmeringer Hauptstra�e;17;1040;Wien;;;1AAIF
+15;Riegler;Michael;1;10-M�r-94;Flursch�tzstr.;4/4/12;3400;Weidling;;;1AAIF
+16;Roldan;Rafael;1;11-Jul-98;Stiftgasse;6/38;2620;Neunkirchen;;;1AAIF
+17;Samonte;Bernard;1;09-Jun-97;Hardegg.;2;1150;Wien;;;1AAIF
+18;Schuh;Daniel;1;14-Feb-96;Am Sch�pfwerk;21;1070;Wien;;;1AAIF
+19;Surlan;Dejan;1;26-Sep-97;Oldenburggasse;40;1040;Wien;;;1AAIF
+20;Tafart;Christopher;1;21-Jul-96;Wulzendorferstra�e;378;2542;Kottingbrunn;;;1AAIF
+21;Tillmann;Marion;2;21-Mai-88;Hungerbergstra�e;190;2513;M�llersdorf;;;1AAIF
+22;Tillmann;Martina;2;15-Jul-60;Hauffgasse;10;1020;Wien;;;1AAIF
+23;Togootsch;Sara;2;07-Apr-93;Rembrandtstra�e;73/4;1150;Wien;;;1AAIF
+24;Zaczkowski;Lukasz;1;01-M�r-92;Berglerg.;20/2;1160;Wien;;;1AAIF
+25;Ajanic;Elly;2;23-Dez-93;Guneschg.;2/3/1/3;1150;Wien;;;1ABIF
+26;Benc;Ulrich;1;27-Apr-91;Kreisgasse;16/14;4870;V�cklamarkt;;;1ABIF
+27;Bocaj;Norges;1;14-Dez-85;Wienerstr.;36;1130;Wien;;;1ABIF
+28;Cubela;Ivan;1;10-Feb-90;Kaiser-Ebersdorferstr.;37;1110;Wien;;;1ABIF
+29;Georgiev;Petar Veselinov;1;23-Dez-88;Hauptstr.;23/8;1100;Wien;;;1ABIF
+30;Gruber;Matthias;1;20-Jul-78;Neubergenstrasse;18/19;1020;Wien;;;1ABIF
+31;Hosseini;Seyedamir;1;17-M�r-87;Enenkelstra�e;169;1150;Wien;;;1ABIF
+32;Iderbat;Bilguundalai;1;07-J�n-94;Radezkystr.;22/17;1150;Wien;;;1ABIF
+33;Keighobadi;Ebrahim;1;01-M�r-87;Untere Hauptstrasse;7/2/9;2460;Bruck/Leitha;;;1ABIF
+34;Ladinig;Andrea;2;09-Aug-89;Rundstuckstr.;75;2344;Ma. Enzersdorf;;;1ABIF
+35;Macic;Almir;1;14-J�n-81;Wattgasse;26;2351;Wr. Neudorf;;;1ABIF
+36;Mohammadi;Nassim;1;08-J�n-92;Kreindlg.;7/1/4;8510;Stainz;;;1ABIF
+37;Moser;Boris;1;29-M�r-84;Enzersfelderstra�e;22/34;1150;Wien;;;1ABIF
+38;Nasanbayar;Lkhagvatseren;2;08-Sep-92;Hauptstra�e;8/18;1140;Wien;;;1ABIF
+39;Orcasitas;Stefan;1;12-Okt-92;Hauptstr.;6/9;1110;Wien;;;1ABIF
+40;Ott;Matthias;1;10-Nov-91;Schlo�see II/;4/6;1170;Wien;;;1ABIF
+41;Pittner;Fabio;1;24-Jun-74;Burggasse;2-4/4/51;1050;Wien;;;1ABIF
+42;Rahborfarkhooy;Mohammadreza;1;10-Aug-89;Paracelsusgasse;6/20;1100;Wien;;;1ABIF
+43;Rieder;Manuel;1;04-Okt-85;Rotenhofgasse;88/2/20;1050;Wien;;;1ABIF
+44;Roth;Bernd;1;23-M�r-80;Rechenfeldstr.;62/5;1030;Wien;;;1ABIF
+45;Salmaniasl;Mehran;1;19-Nov-87;Laxenburgerstr.;88/34;2345;Brunn/Gebirge;;;1ABIF
+46;Sekula;Natalija;2;04-M�r-89;Keilg.;24;1234;Wien;;;1ABIF
+47;Sila;Angelina;2;19-Jun-91;Reklewskigasse;69/12;1120;Wien;;;1ABIF
+48;Stuhlik;Marko;1;03-M�r-71;Halirschgasse;22/4;6971;Hard;;;1ABIF
+49;Albert;Patricia;2;31-Aug-02;Akaziengasse;36/4/14;1170;Wien;;;1AHBGM
+50;Almajanu;Ana-Maria;2;30-Sep-01;Wiethestra�e;9/9/5/4;1170;Wien;;;1AHBGM
+51;Arapoglu;Fatima;2;01-Okt-02;Haslingerg.;4/1/7;1110;Wien;;;1AHBGM
+52;Djakovic;Martina;2;18-J�n-02;Speckbachergasse;3/9;1210;Wien;;;1AHBGM
+53;Dorner;Alexandra;2;01-Nov-00;Anzengrubergasse;9/19;3464;Goldgeben;;;1AHBGM
+54;Durmaz;Melih;1;07-Okt-01;Reinprechtsdorferstr.;19/34;1230;Wien;;;1AHBGM
+55;Durmaz;S�heyla;2;26-J�n-02;Stenografeng.;9/9/5/4;2332;Hennersdorf;;;1AHBGM
+56;Gruber;Michelle;2;02-Apr-01;Smolag.;4/4/2;1230;Wien;;;1AHBGM
+57;Haberler;Florian;1;22-Apr-02;Preysingg.;30/6/26;1090;Wien;;;1AHBGM
+58;Hejda;David;1;08-Nov-01;Hofstattg.;18/9-10;1120;Wien;;;1AHBGM
+59;Klocker;Linus;1;09-Okt-01;trogergasse;24/4/1;8990;Bad Aussee;;;1AHBGM
+60;Lai;Julia;2;05-Nov-01;Parkgasse;6/1/4;7100;Neusiedl/See;;;1AHBGM
+61;L�dl;Christoph;1;14-Aug-01;Othmargasse;13;2560;Berndorf;;;1AHBGM
+62;Memis;Melih;1;07-Sep-02;Fasangarteng.;39/43;1170;Wien;;;1AHBGM
+63;Mohamed;Omar;1;26-Apr-01;Friedhofg.;35-37/3/9;1140;Wien;;;1AHBGM
+64;Oberressl;Felix;1;18-Dez-02;Brigittenauer L�nde;10;1230;Wien;;;1AHBGM
+65;Pakchehr;Melanie;2;30-Dez-01;Stolberggasse;4;1140;Wien;;;1AHBGM
+66;Raica;Hanna;2;19-Sep-02;Landstr. Hauptstr.;2/5/60;1100;Wien;;;1AHBGM
+67;Schachner;Sabrina;2;23-Nov-02;Lindengasse;35-37/3/9;1210;Wien;;;1AHBGM
+68;Schartm�ller;Elias Noah;1;16-Okt-01;Landesgerichtsstra�e;12/17;3434;Katzelsdorf;;;1AHBGM
+69;Schneiter;Rinchen;2;06-Nov-01;Kreisgasse;8/3;3021;Pre�baum;;;1AHBGM
+70;Schneiter;Sonam;1;17-Okt-01;Putzingerstra�e;13-19/2/10;1170;Wien;;;1AHBGM
+71;Schulz;Jonas;1;23-Okt-02;Reinprechtsdorferstr.;125;1230;Wien;;;1AHBGM
+72;Skumantz;Marcel;1;10-J�n-02;Burggasse;36/2/14;1220;Wien;;;1AHBGM
+73;St�ger;Marliese;2;21-Apr-03;Senfg.;6;1130;Wien;;;1AHBGM
+74;Tulepbergenow;Daniel;1;11-Jul-00;Vitiserstra�e;21/1/20;1230;Wien;;;1AHBGM
+75;Vidovic;Ilija;1;08-Jul-02;Greiseneckergasse;1/3/3;1230;Wien;;;1AHBGM
+76;Winter;Martin;1;02-Jul-01;Alserstra�e;21-23/12/9;3002;Purkersdorf;;;1AHBGM
+77;Wurz;Daniela;2;30-Sep-02;Wiethestra�e;6;1180;Wien;;;1AHBGM
+78;Wurzberger;Marco;1;18-Aug-00;Strohgasse;48/3;1020;Wien;;;1AHBGM
+79;Yilmaz;Zehra;2;18-Feb-03;Wendstattg.;22/7/4;1150;Wien;;;1AHBGM
+80;Zanko;Stefan;1;30-Mai-01;Loudonstr.;33/2/6;7111;Parndorf;;;1AHBGM
+81;Burner;Jos�;1;04-J�n-92;Schmalzhofg.;30;2295;Oberweiden;;;1AKIF
+82;Deldar;Mitra;2;05-M�r-77;Friedrich Kaisergasse;2/7/5;1100;Wien;;;1AKIF
+83;Eckert;Peter;1;30-Mai-64;Vorgartenstr.;5/17/6;1100;Wien;;;1AKIF
+84;Eldarsi;Bellkeis;2;23-Feb-94;W�hringerstr.;28;1050;Wien;;;1AKIF
+85;Hussain;Farzooq;1;13-Jun-79;Landstr. Hauptstr.;16;1230;Wien;;;1AKIF
+86;Ilic;Antonio;1;17-Apr-94;Am Kanal;41;2752;W�llersdorf;;;1AKIF
+87;Jagodic;Irina-Simona;2;21-Nov-85;Hasnerstr.;151;1140;Wien;;;1AKIF
+88;Jernei;Violetta;2;18-J�n-73;Hungerbergstra�e;76-78/30;1050;Wien;;;1AKIF
+89;Kahler;Christopher;1;24-Jul-92;Burggasse;51;1100;Wien;;;1AKIF
+90;Kappl;Alexandra;2;07-J�n-92;Kirschenallee;30;1050;Wien;;;1AKIF
+91;Keller;Diane;2;04-Apr-66;Heinestr.;50;1160;Wien;;;1AKIF
+92;Kerschbaum;Norbert;1;02-Jul-75;Anton Baumgartnerstr.;4;1050;Wien;;;1AKIF
+93;Nagata;Miki;2;06-Jul-77;Breitenseerstra�e;4;1100;Wien;;;1AKIF
+94;Obradovic;Mojca;2;01-Jun-79;Mayergasse;15-19/1/5;1030;Wien;;;1AKIF
+95;Pouladi;Babak;1;12-Nov-94;Jara Benes Gasse;9/22;1030;Wien;;;1AKIF
+96;Prohaska;Ruth;2;24-Feb-95;Glasauergasse;3/23;1020;Wien;;;1AKIF
+97;Redjepi;Afrdita;2;24-Feb-81;Bundesstr.;13;1100;Wien;;;1AKIF
+98;Schlagholz;Lukas;1;12-Aug-85;Peter Jordanstr.;26/12;2500;Baden;;;1AKIF
+99;Sild;Clemens;1;17-Dez-68;Leibnitzg.;58;1140;Wien;;;1AKIF
+100;Str�binger;Christian;1;20-Feb-86;H�tteldorferstr.;2;1100;Wien;;;1AKIF
+101;Wachter;Roy;1;29-Apr-94;H�gelingasse;63/1/5;2000;Stockerau;;;1AKIF
+102;Widmer;Martin;1;31-Dez-90;Troststra�e;1A;2301;Gro� Enzersdorf;;;1AKIF
+103;Aksu;Eren;1;06-Feb-98;Seibahng.;56/7;1050;Wien;;;1BAIF
+104;Dobler;Michael;1;09-Mai-97;Mitterweg;53;1070;Wien;;;1BAIF
+105;Dulic;Salih;1;13-Jul-98;Stollgasse;32/6/16;9125;K�hnsdorf;;;1BAIF
+106;Fiedler;Benjamin;1;19-Feb-95;Gerstnerstra�e;41;1050;Wien;;;1BAIF
+107;G�ler;Serhat;1;13-M�r-98;Unter d. Kirche;105;1020;Wien;;;1BAIF
+108;G�ren;Seyid;1;30-M�r-98;Burggasse;5/17/6;1120;Wien;;;1BAIF
+109;Hampejs;Benedikt;1;14-Apr-98;Westbahnstra�e;11/9;1070;Wien;;;1BAIF
+110;Hofschneider;Tobias;1;28-J�n-98;R�merweg;13/14/2;2534;Alland;;;1BAIF
+111;Innfeld;Bastian;1;02-Nov-98;Kempelengasse;3/4/6;1070;Wien;;;1BAIF
+112;Karakus;Mahmut;1;22-Feb-97;Hauptstr.;166/5A;1220;Wien;;;1BAIF
+113;Mehmedovic;Mersid;1;26-Okt-98;Vorgartenstra�e;54/14;1160;Wien;;;1BAIF
+114;Nagi;Mohamed;1;08-Nov-98;Meiselstra�e;6/9;3003;Gablitz;;;1BAIF
+115;Pilz;Florian;1;30-M�r-97;Lindenstra�e;2;3270;Scheibbs;;;1BAIF
+116;Priesch;Maximilian;1;30-Sep-97;Senfg.;29/41;1235;Wien;;;1BAIF
+117;Selimovic;Aldin;1;19-Jun-95;Wilhelminenstra�e;36/1A/57;1150;Wien;;;1BAIF
+118;Shafique;Mehran;1;14-M�r-96;Possingergasse;166/5A;1130;Wien;;;1BAIF
+119;Stojanovic;Daniel;1;19-J�n-99;Langeg.;15;3441;Freundorf;;;1BAIF
+120;Strasser;Thomas;1;01-Mai-97;Albertgasse;40;3464;Goldgeben;;;1BAIF
+121;Stuck;Fabian;1;08-Jun-95;Otto Probst Platz;32/1/2;1120;Wien;;;1BAIF
+122;Topcu;Emre;1;18-Apr-97;Hauffg.;18;1110;Wien;;;1BAIF
+123;Zeinzinger;Sebastian;1;21-M�r-97;Favoritenstra�e;21;2351;Wiener Neudorf;;;1BAIF
+124;Brahmi;Junus;1;26-Jun-94;Pre�b. Reichsstr.;1/10;1160;Wien;;;1BBIF
+125;Brunnthaler;Herwig;1;02-Okt-90;Moosgasse;101/1/30;1150;Wien;;;1BBIF
+126;Demirovic;David;1;22-Feb-99;Sch�nbrunner Stra�e;30/6/24;1230;Wien;;;1BBIF
+127;Fellner;Anita;2;09-M�r-96;Hellwagstra�e;68/57/14;3160;Traisen;;;1BBIF
+128;Gradkowski;David;1;26-Jun-96;Custozzag.;2/6;1050;Wien;;;1BBIF
+129;G�lcehre;Cihan;1;06-M�r-87;Th. K�rnerstr.;6/3/12;3021;Pressbaum;;;1BBIF
+130;G�lcehre;Dominik;1;25-Nov-90;Lindengasse;13/13;1200;Wien;;;1BBIF
+131;Hackl;David;1;31-Dez-87;Unt. Weissgerberstr.;31E;1190;Wien;;;1BBIF
+132;Haschka;Gerhard;1;17-Feb-92;Bindergasse;30;1100;Wien;;;1BBIF
+133;Hawa;Fadi;1;30-Sep-93;Schwenkgasse;378;1100;Wien;;;1BBIF
+134;Illmayer;David;1;13-Jun-91;Halirschgasse;160-162/2/13;2274;Rabensburg;;;1BBIF
+135;Kocher;Mario;1;31-M�r-87;Vogtgasse;19/15;1190;Wien;;;1BBIF
+136;Loshaj;Jetmir;1;25-M�r-95;Laxenburgerstr.;42;7203;Wiesen;;;1BBIF
+137;Mailaram;Rahul;1;22-Apr-97;Kaserenenstr.;30;1170;Wien;;;1BBIF
+138;Nar;Taylan Berk;1;15-Mai-95;Einfahrtstr.;7;1140;Wien;;;1BBIF
+139;Scheibenpflug;Thomas;1;20-Dez-89;Lindenstra�e;78/26;1200;Wien;;;1BBIF
+140;Sperlic;Denis;1;20-M�r-97;Schwaigerg.;44;1080;Wien;;;1BBIF
+141;Sreckovic;Tamara;2;06-Mai-92;Mitterbergg.;5/1/21;1030;Wien;;;1BBIF
+142;Stich;Florian;1;15-Sep-84;G�rtschach;135/5/2;1090;Wien;;;1BBIF
+143;Stuck;Fabian;1;19-Aug-95;Felberstr.;3/9;1060;Wien;;;1BBIF
+144;Trinkl;Gerald;1;30-Okt-81;Lerchenfelderstr.;16/11;2832;Thernberg;;;1BBIF
+145;Ayvaz;Havva;2;26-Jun-02;Scholzg.;8/27;1220;Wien;;;1BHBGM
+146;Bakii;Suhejla;2;25-Feb-02;trogergasse;256/2/6;8662;Mitterdorf;;;1BHBGM
+147;Balas;Florian;1;10-Okt-01;Ruprechtshofen;34;6691;Jungholz;;;1BHBGM
+148;Bonard;Florian;1;17-Apr-01;Fenzlgasse;6/2;1040;Wien;;;1BHBGM
+149;Cadek;Kevin;1;25-M�r-01;Koschakergasse;178/6;1120;Wien;;;1BHBGM
+150;Czerny;Amina;2;21-Okt-00;K�nigsb�helstr.;4/1/7;3003;Gablitz;;;1BHBGM
+151;Dadaschova;G�nce;2;17-Apr-02;Ruefenfeldweg;26/15;1140;Wien;;;1BHBGM
+152;Echsel;Kando;2;29-Dez-02;Kr�tzlergasse;1-3/3/T9;1210;Wien;;;1BHBGM
+153;Elshazly;Salma;2;15-Feb-03;Am Sch�pfwerk;22;2700;Wr. Neustadt;;;1BHBGM
+154;Fuhrer;Elias;1;12-Okt-00;Reisenbauer-Ring;68-70/4/25;1100;Wien;;;1BHBGM
+155;Hassan;Nabil;1;16-Dez-01;Loquaiplatz;15;1210;Wien;;;1BHBGM
+156;Kenan;Melisa;2;16-Mai-01;H�tteldorferstr.;18/19;2351;Wiener Neudorf;;;1BHBGM
+157;Kovar;Madeleine;2;30-Sep-01;Hetzendorferstr.;35-37/33/3;2353;Guntramsdorf;;;1BHBGM
+158;Krejci;Daniela;2;03-Sep-02;A. Baumgartnerstr.;87 A;2285;Leopoldsdorf;;;1BHBGM
+159;Mengen;Berat;1;10-Aug-02;Stachegasse;30/7/11;1150;Wien;;;1BHBGM
+160;Milovanovic;Marko;1;01-Apr-01;Am Hundsturm;36/2a/46;1070;Wien;;;1BHBGM
+161;Nelson;Celina;2;20-Mai-01;Pazmanitengasse;4-12/3/3;1160;Wien;;;1BHBGM
+162;Nemeth;Laszlo;1;24-Jul-99;Mitisg.;68;8343;Trautmannsdorf;;;1BHBGM
+163;Passauer;Paul;1;20-J�n-03;Gentzgasse;19/3/6;1030;Wien;;;1BHBGM
+164;Pilar;Alexander;1;26-Sep-99;Hauslabgasse;26;1150;Wien;;;1BHBGM
+165;R�ssler;Patrick;1;02-Mai-02;Schillerstra�e;24/15;1040;Wien;;;1BHBGM
+166;Sedlacek;Andreas;1;24-Jul-01;Hormayrgasse;14/7;1230;Wien;;;1BHBGM
+167;Springer;Felix;1;07-Sep-01;Hohenbergstra�e;6;1190;Wien;;;1BHBGM
+168;Tokic;Lara;2;05-M�r-02;Effingerg.;33/3;2542;Kottingbrunn;;;1BHBGM
+169;Urtz;Paul;1;23-Jun-02;Eduard-Klingerstrasse;4/1/7;1050;Wien;;;1BHBGM
+170;Wallner;Tristan;1;23-Aug-01;Ziegelhofstrasse;22;1010;Wien;;;1BHBGM
+171;Walz;Lenard;1;22-Sep-01;Baumgartenstra�e;5/1;1140;Wien;;;1BHBGM
+172;Zaghbib;Meriem;2;05-Nov-02;Panikeng.;4/2/16;1060;Wien;;;1BHBGM
+173;Zawislak;Konrad;1;07-J�n-02;Langsulzgasse;41/2/7;1090;Wien;;;1BHBGM
+174;Zilic;Amar;1;08-M�r-01;Degengasse;3/4;1140;Wien;;;1BHBGM
+175;Zivanovic;Katarina;2;01-Feb-02;Ameisg.;18;1200;Wien;;;1BHBGM
+176;Zmeck;Jasmin;2;03-J�n-02;Weissgerberl�nde;29;1210;Wien;;;1BHBGM
+177;Anic;Tomislav;1;18-Apr-95;Smolag.;8/53;1130;Wien;;;1CBIF
+178;Ataee;Hossein;1;26-Aug-93;Engerthstr.;64;1100;Wien;;;1CBIF
+179;Chaziew;Amirchan;1;25-Mai-88;P�tzleinsdorfer H�he;32/3/69;1120;Wien;;;1CBIF
+180;Dibl;Nikolaus;1;30-Mai-78;Inzersdorfer Stra�e;1/2/7;1020;Wien;;;1CBIF
+181;Eder;Ralph;1;16-Mai-96;Kr�tzlergasse;67/16;3580;Horn;;;1CBIF
+182;Gschwandtner;Michael;1;23-Feb-81;Heinrich-Lefler-Gasse;9/5/6;1120;Wien;;;1CBIF
+183;Hammer;Michael;1;14-M�r-90;Sch�nbrunnerstr.;10/2/3;1030;Wien;;;1CBIF
+184;H�lbling;Andreas;1;16-J�n-97;Kr�tzlergasse;35/5/4;1120;Wien;;;1CBIF
+185;Kattinger;Catrin;2;21-Sep-91;Schallergasse;4/1/14;1020;Wien;;;1CBIF
+186;Kikic;Kristijan;1;17-Mai-87;Gro�m�rbisch;39;1030;Wien;;;1CBIF
+187;Mahler;Dominik;1;13-Jun-88;Simoningplatz;360/1/10;1110;Wien;;;1CBIF
+188;Mekh;Dmytro;1;11-Aug-87;Fl. Hedorferstr.;18;1180;Wien;;;1CBIF
+189;Moser;Maximilian;1;06-Apr-97;Lindengasse;15;1140;Wien;;;1CBIF
+190;Neidhart;Christian;1;07-Aug-91;Ospelgasse;7/2/9;1120;Wien;;;1CBIF
+191;Oberenzer;Roman;1;17-Jun-82;Otto Probststr.;3/60;1200;Wien;;;1CBIF
+192;Pelz;Denis;1;11-Jul-97;Wiethestra�e;29/41;1200;Wien;;;1CBIF
+193;Raberger;Fabian;1;30-Mai-98;Paulusgasse;4-18/10/9;1130;Wien;;;1CBIF
+194;Ramenda;Kamil;1;18-Mai-97;Anton Baumgartnerstr.;18/9-10;1140;Wien;;;1CBIF
+195;Rasic;Jovana;2;28-Okt-97;Am Fuchsenfeld;110;1190;Wien;;;1CBIF
+196;Sedra;Abraham;1;31-Jul-96;Salzbergstr.;231;1190;Wien;;;1CBIF
+197;Stancov;Deonisie;1;11-Jun-93;Alseggerstr.;22;1200;Wien;;;1CBIF
+198;Tangwena;Leeroy Mike;1;08-M�r-98;Hornmayerg.;82/4;1210;Wien;;;1CBIF
+199;Tousios;Thomas;1;03-Jun-97;Schwenderg.;10/3/12;1040;Wien;;;1CBIF
+200;Acimovac;Dejan;1;25-Feb-00;Gumpendorferstra�e;35-37/33/3;2454;Trautmannsdorf;;;2AFID
+201;Arapoglu;Ali;1;05-Feb-99;Pyhra;10;1130;Wien;;;2AFID
+202;Bader;Alexander;1;25-Nov-98;Gro�m�rbisch;40/1/6;1160;Wien;;;2AFID
+203;Balazi;Gentian;1;22-Dez-99;Semperstr.;102/RH2;1060;Wien;;;2AFID
+204;Bilalic;Aldin;1;22-M�r-01;Wiethestra�e;291/1/1;1150;Wien;;;2AFID
+205;Cervenka;Johann;1;29-Jun-00;Bahnstra�e;128;4407;Dietach;;;2AFID
+206;Czopak;Stefan;1;20-Okt-01;Hardtmuthg.;1/13;3422;Greifenstein a.d. Donau;;;2AFID
+207;Dragomirov;Kevin;1;12-Jul-00;Stauraczg.;13/19;1050;Wien;;;2AFID
+208;Dulagan;Reynandy;1;15-Dez-99;Strausseng.;71/1/1;1130;Wien;;;2AFID
+209;Grumeth;Kevin;1;01-Aug-99;Am Fuchsenfeld;267/3/16;1120;Wien;;;2AFID
+210;Imamovic;Edin;1;12-Apr-02;Grinzinger Stra�e;4;1110;Wien;;;2AFID
+211;Karaca;Kaan;1;16-Jun-99;Hudlergasse;57/2;3002;Purkersdorf;;;2AFID
+212;Knezevic;Patrick;1;23-Dez-99;Weldengasse;20;1020;Wien;;;2AFID
+213;Kolar;Sven;1;30-Jun-98;Schickg.;15;1010;Wien;;;2AFID
+214;Kufner;Philipp;1;06-Nov-00;Werkbachg.;140/1/10;1100;Wien;;;2AFID
+215;Loshaj;Shqipdon;1;10-J�n-98;Humboldtpl.;4/17;1100;Wien;;;2AFID
+216;Magomadov;Chamsat;1;13-M�r-98;Handelskai;2/2/2/3;7121;Weiden am See;;;2AFID
+217;Mansour;Ashraf;1;31-Okt-98;Senfg.;37;1130;Wien;;;2AFID
+218;Percsy;Pascal;1;11-Sep-97;Enenkelstra�e;12/17;1230;Wien;;;2AFID
+219;Petrovic;Alexander;1;02-Feb-01;Landstr. Hauptstr.;10;1230;wien;;;2AFID
+220;Radisic;Stefan;1;31-J�n-00;Tullnerstr.;13/13;1100;Wien;;;2AFID
+221;Rischawy;Thomas;1;10-Sep-99;Bobiesg.;67/5/1/4;1070;Wien;;;2AFID
+222;Roth;Felix;1;06-M�r-99;Halirschgasse;14;1130;Wien;;;2AFID
+223;R�ttig;Matthias;1;28-Aug-01;Egon-Schiele-Gasse;42/3/17;1020;Wien;;;2AFID
+224;Schmidt;Lorenz;1;09-J�n-98;Breitenseerstra�e;3/3;4061;Pasching;;;2AFID
+225;Sch�nbauer;Julian;1;14-Apr-99;Karl v. B�hmerleg.;10/2/3;1150;Wien;;;2AFID
+226;Sharma;Anant;1;02-Sep-01;Bachgasse 1-7/7/2/9;9/9/5/4;1100;Wien;;;2AFID
+227;Sieberer;Dominik;1;06-Sep-00;Marschallplatz;10;3160;Traisen;;;2AFID
+228;Singh;Arvinder;1;31-M�r-00;Ziegelhofstrasse;353;1140;Wien;;;2AFID
+229;Taskiran;Enes;1;23-Sep-99;Hauptstr.;75;2462;Wilfleinsdorf;;;2AFID
+230;Wally;Florian;1;26-Nov-01;G�nserstra�e;41/5;1220;Wien;;;2AFID
+231;Wieselthaler;Paul;1;30-Okt-99;Zeinlhoferg.;23/4/45;1150;Wien;;;2AFID
+232;Wimmer;Christian;1;29-Jul-00;Salzachstra�e;21;1110;Wien;;;2AFID
+233;Amari;Seif;1;25-Jul-00;Engerthstra�e;174/22;1210;Wien;;;2AHBGM
+234;Andjelkovic;Ivan;1;25-Nov-01;Seitenbergerg.;384/2/16;1110;Wien;;;2AHBGM
+235;Basha;Nesrin;2;28-Dez-01;Seitweg;14;1170;Wien;;;2AHBGM
+236;Capek;Noah;1;12-Okt-00;Apfelrosenweg;3/60;1200;Wien;;;2AHBGM
+237;Dostal;Marcus;1;14-Okt-00;Graumanng;19/34;1235;Wien;;;2AHBGM
+238;Fittel;Florian;1;16-Apr-00;Felbigergasse;5/2/13;7121;Weiden am See;;;2AHBGM
+239;Grabner;Lukas;1;25-Aug-00;Herzmansky Orlandog.;3;3945;Nondorf;;;2AHBGM
+240;Habiger;Silvan;1;11-J�n-01;Hallensteingasse;19-21/4/8;1100;Wien;;;2AHBGM
+241;Hajdarbegovic;Eldar;1;03-Nov-00;Arnezhoferstra�e;7/3/18;2514;Traiskirchen;;;2AHBGM
+242;Jin;Bo-Ou;1;24-Sep-96;Kr�tzlergasse;178/6;3671;Marbach;;;2AHBGM
+243;Jirout;Cheyenne;2;07-Apr-01;Oberhautzental;10/3/12;1060;Wien;;;2AHBGM
+244;Kraut;Arno;1;17-Jul-00;Schickg.;129/4/17;1100;Wien;;;2AHBGM
+245;Laube;Katharina;2;06-Sep-00;Wilhelm-Kressplatz;29/14;3500;Krems;;;2AHBGM
+246;M�ller;Alfons;1;14-Aug-00;Breitenseerstra�e;9/14;1150;Wien;;;2AHBGM
+247;Nikolic;Tamara;2;21-Sep-00;Vitiserstra�e;50/RH 10;1050;Wien;;;2AHBGM
+248;�zmen;Aynur;2;09-Feb-01;Felbigergasse;51;2361;Laxenburg;;;2AHBGM
+249;Saric;Sara;2;19-Aug-00;Oeverseestr.;33/3;1190;Wien;;;2AHBGM
+250;Singh;Harmanvir;2;12-M�r-01;Hauffg.;34;1170;Wien;;;2AHBGM
+251;S�hs;Bastian;1;28-M�r-01;Burggasse;36/1A/57;1210;Wien;;;2AHBGM
+252;Trauner;Mathew;1;14-M�r-02;Salzachstra�e;25;1150;Wien;;;2AHBGM
+253;Wenty;Elia;1;21-Okt-00;Linzer Stra�e;97/3/11;1080;Wien;;;2AHBGM
+254;Akcay;Batuhan;1;01-Apr-01;Obere Amtshausgasse;4/7;1050;Wien;;;2AHIF
+255;Batinic;Kristian;1;11-Nov-00;Troststra�e;56A;1100;Wien;;;2AHIF
+256;Bauer;Johannes;1;17-Jul-01;Sch�ngraberngasse;2/23/6;7032;Sigless;;;2AHIF
+257;Demski;Jonas;1;07-Apr-01;Ferdinand K�s-Gasse;82/4;1210;Wien;;;2AHIF
+258;Gager;Michael;1;14-Mai-00;Cumberlandstr.;43;1230;Wien;;;2AHIF
+259;Gegic;Ensar;1;11-Aug-00;Sch�nbrunner Allee;3/10/11;1170;Wien;;;2AHIF
+260;Horn;Andreas;1;11-Dez-00;Schuppengasse;56/3;8184;Anger;;;2AHIF
+261;J�ger;Leopold;1;16-Aug-99;Keferg.;8/2/3/25;2564;Furth;;;2AHIF
+262;Kumar;Arjun;1;01-Dez-99;Steindorf;61/1/17;2454;Trautmannsdorf;;;2AHIF
+263;Lehn;Gilbert;1;29-Okt-99;Eslarngasse;140/4;1130;Wien;;;2AHIF
+264;Milkovits;Constantin;1;09-Nov-00;Adalbert Stifter Stra�e;4;1230;Wien;;;2AHIF
+265;M�llauer;Leonhard;1;23-Aug-00;Kempelengasse;3;1020;Wien;;;2AHIF
+266;Mystek;Jakub;1;18-Apr-01;Engerthstr.;32/3/69;1030;Wien;;;2AHIF
+267;Pellkvist;Tobias;1;03-Apr-01;Hardegg.;5/1;2346;S�dstadt;;;2AHIF
+268;Pistor;Nadine;2;20-Nov-00;Triftg.;25/16/30;1050;Wien;;;2AHIF
+269;P�chleitner;Thomas;1;17-Sep-00;Jedlersdorferstr.;51/1/14;1150;Wien;;;2AHIF
+270;Pucher;Fabian;1;03-Apr-01;Hustergasse;36/1A/57;1120;Wien;;;2AHIF
+271;Pufler;Julian;1;31-Okt-01;Meranerstr.;16/3/24;1220;Wien;;;2AHIF
+272;Sallmann;Alexander;1;25-Mai-00;Breitenseerstra�e;30/6/24;1140;Wien;;;2AHIF
+273;Sch�bel;Marc;1;28-Okt-00;Sch�pfergasse;72A/3/1;1040;Wien;;;2AHIF
+274;Schulze;Daniel;1;04-Okt-99;Rechte Wienzeile;3/1/24;3425;Langenlebarn;;;2AHIF
+275;Schwarz;Mathias;1;24-Okt-99;Lerchenfelderstr.;87 A;3580;Horn;;;2AHIF
+276;Tinhofer;David;1;22-Apr-02;Breitenfurterstra�e;9/5/6;1050;Wien;;;2AHIF
+277;Unfried;Stefan;1;27-Apr-99;Otto Probststr.;97/3/11;1140;Wien;;;2AHIF
+278;Vercimak;Daniel;1;14-M�r-01;Ant. BaumG.-Stra�e;6/9;3100;St. P�lten;;;2AHIF
+279;Wagenleitner;Thutthep;1;18-Okt-97;Meiszauerg.;18 A/1/28;2380;Perchtoldsdorf;;;2AHIF
+280;Yilmaz;Thomas;1;25-Jul-00;Goldschlagstr.;36/2a/46;1230;Wien;;;2AHIF
+281;Ziegler;Fiona;2;19-Mai-00;Talgasse;31/27;2320;Schwechat-Mannsw�rth;;;2AHIF
+282;Apostol;Nico;1;07-Mai-01;Zentagasse;19/15;1150;Wien;;;2BHBGM
+283;Balint;Mihai-Gabriel;1;08-Dez-00;Hietzinger Hauptstr.;53;1130;Wien;;;2BHBGM
+284;Belzar;Jakub;1;30-M�r-01;Sch�pfergasse;4;1040;Wien;;;2BHBGM
+285;Ben Mohamed;Yassin;1;08-Jul-00;Sportplatzgasse;32/15;1220;Wien;;;2BHBGM
+286;Bogunic;Aida;2;21-M�r-00;Malfattig.;24/22;1120;Wien;;;2BHBGM
+287;Burger;Leon;1;03-Jun-01;Reinprechtsdorferstr.;31E;1060;Wien;;;2BHBGM
+288;Ecker;Katja;2;30-Sep-01;Obere Bahngasse;439-443/15;1210;Wien;;;2BHBGM
+289;Jicha;Bernhard;1;11-Dez-00;Wilhelminenstra�e;51/10/1;1160;Wien;;;2BHBGM
+290;Kvapil;Roman;1;15-M�r-00;Greiseneckergasse;174-180/12/6;7100;Neusiedl/See;;;2BHBGM
+291;Lauppert;Moritz;1;12-Apr-01;Fischer v. Erlachg.;25;9470;St. Paul;;;2BHBGM
+292;Lendwai;Julian;1;14-Mai-01;Gellertg.;4/1/7;1070;Wien;;;2BHBGM
+293;M�ller;Vinzenz;1;04-Jun-01;Laaer-Berg-Str.;24;1100;Wien;;;2BHBGM
+294;Peric;Patricia;2;29-Okt-01;Winzerstr.;32/3/69;1190;Wien;;;2BHBGM
+295;Petrovic;Kristina;2;19-Jun-99;Brunnengasse;30/1/14;1050;Wien;;;2BHBGM
+296;P�chl;Laura;2;19-Dez-00;Schwaigerg.;1;1200;Wien;;;2BHBGM
+297;Rathnayake;Randunage Niki;1;03-Okt-01;Karl Adlitzerstr.;6/20;3100;St. P�lten;;;2BHBGM
+298;Sadiki;Josephe;1;19-Dez-99;Muhrhoferweg;69;1050;Wien;;;2BHBGM
+299;Schmidt;Felicity;2;26-Apr-01;Neubaugasse;120-122/2/17;1070;Wien;;;2BHBGM
+300;Sener;Sema Nur;2;26-Jul-00;Maxwaldstra�e;102-112/4/35;1090;Wien;;;2BHBGM
+301;Steinb�ck;Daniel;1;09-Jul-01;Breitenseerstra�e;33;2454;Trautmannsdorf;;;2BHBGM
+302;Berger;Patrick;1;30-Sep-00;Trandorf;40;1100;Wien;;;2BHIF
+303;Brunner;Maximilian;1;08-Jul-01;Mitisg.;358/1/28;1070;Wien;;;2BHIF
+304;B�rger;Sebastian;1;15-Jul-01;Spielmanng.;1/1/17;2242;Prottes;;;2BHIF
+305;Busch;Stefan;1;22-Nov-00;Schanzstr.;8/14;1050;Wien;;;2BHIF
+306;D�ppes;Benjamin;1;07-Mai-01;Auhofstr.;13;1200;Wien;;;2BHIF
+307;Farmer;Stefan;1;24-Sep-98;Anton Baumgartnerstr.;82/4;1170;Wien;;;2BHIF
+308;Furtlehner;Tobias;1;30-M�r-02;Quadenstr.;22;1150;Wien;;;2BHIF
+309;Gaber;Maximilian;1;30-M�r-01;Ferdinand K�s-Gasse;4;1100;Wien;;;2BHIF
+310;Hintermayer;Lucas;1;01-Nov-00;Schlachthausg.;30;1130;Wien;;;2BHIF
+311;Ihl;Alexander;1;03-Sep-01;Buchengasse;125;1160;Wien;;;2BHIF
+312;Ivancsics;Philipp;1;27-Aug-01;Gellertg.;17/19/8;1060;Wien;;;2BHIF
+313;Kohlbacher;Johannes;1;21-Mai-01;Bacherplatz;24;1160;Wien;;;2BHIF
+314;Landauer;Nico;1;18-Dez-99;Unterdorf;40;2201;Gerasdorf;;;2BHIF
+315;Lasic;Martin;1;12-J�n-01;Apostelgasse;9/2;1100;Wien;;;2BHIF
+316;Lenz;David;1;11-Jul-01;Weissgerberl�nde;2/6;1200;Wien;;;2BHIF
+317;Meltsch;Florian;1;15-Jul-00;Alszeile;4/5;1120;Wien;;;2BHIF
+318;Nader;Tobias;1;16-Sep-00;Egon-Schiele-Gasse;13;1210;Wien;;;2BHIF
+319;Pejic;Marko;1;29-M�r-01;Hietzinger Hauptstra�e;71/1/1;1120;Wien;;;2BHIF
+320;Reisenhofer;Lukas;1;15-Feb-00;Hohenbergstra�e;397/8;1200;Wien;;;2BHIF
+321;Rodler;David;1;08-Mai-01;Versorgungsheimstr.;103/11;1170;Wien;;;2BHIF
+322;Schaller;Stefan;1;23-Apr-01;Franz Schubertg.;20;1210;Wien;;;2BHIF
+323;Schnepf;Bernhard;1;06-M�r-00;In Freybergen;219/9/2;1150;Wien;;;2BHIF
+324;Schreitl;Elisha;1;28-Apr-01;Meytensg.;4/23;1210;Wien;;;2BHIF
+325;Solomun;Patrick;1;07-Dez-99;Lascyg.;8/1;1110;Wien;;;2BHIF
+326;Weigand;Raphael;1;02-Dez-00;Josefineng.;1/10;1090;Wien;;;2BHIF
+327;Wersonig;Philip;1;16-M�r-01;Halirschgasse;17;1180;Wien;;;2BHIF
+328;Aune;Jan;1;12-Apr-01;Stenografeng.;13;2331;V�sendorf;;;2CHIF
+329;Boranijasevic;Ivan;1;04-Aug-00;Rosa Jochmannring;8;2500;Baden;;;2CHIF
+330;Danilovic;Daniel;1;28-Mai-00;Amselgasse;13/14/2;1150;Wien;;;2CHIF
+331;Dichtl;Lukas;1;21-M�r-01;Hardtmuthg.;219/9/2;1210;Wien;;;2CHIF
+332;Eichhorn;Oskar;1;06-Jun-00;Pergerstr.;2b/14/4;1100;Wien;;;2CHIF
+333;Gergelyi;Matthias;1;25-Apr-99;Franz-Koci-Stra�e;31/1/5;3002;Purkersdorf;;;2CHIF
+334;Hofer;Florian;1;19-Sep-00;Nu�dorferstra�e;1;1220;Wien;;;2CHIF
+335;Horinek;Florian;1;26-Okt-99;S�dhang;68/57/14;1110;Wien;;;2CHIF
+336;Hradil;Raphael;1;17-Apr-00;Pramergasse;34;7464;Althodis;;;2CHIF
+337;Kerb;Daniel;1;15-Mai-99;Bachstrasse;26;1140;Wien;;;2CHIF
+338;Koozehchian;Armin;1;07-Apr-00;Felberstr.;59/2/2;2000;Stockerau;;;2CHIF
+339;Kraft;Marius;1;18-Okt-01;Margareteng�rtel;32b;2620;Neunkirchen;;;2CHIF
+340;Kuklovszky;Benjamin;1;09-J�n-00;Jagdschlossgasse;6/1/2;1090;Wien;;;2CHIF
+341;Lang;Kevin;1;11-Aug-01;Neustift;48/1/12;1220;Wien;;;2CHIF
+342;Lucic;David;1;03-Jun-00;Schumanngasse;97/3/11;1030;Wien;;;2CHIF
+343;Mladenovic;Martin;1;24-Jul-01;Steinbauergasse;10-12/18;1020;Wien;;;2CHIF
+344;Onay;Ahmet;1;07-Okt-99;Franz Schubertg.;25;7511;Kleinbachselten;;;2CHIF
+345;Ratzenb�ck;Jakob;1;26-Jul-99;Schleidengasse;33/9;1140;Wien;;;2CHIF
+346;Salifoski;Nermin;1;10-Dez-00;Meytensg.;63;1050;Wien;;;2CHIF
+347;Schirrer;Sebastian;1;15-Okt-00;Am Sch�pfwerk;2/4/34;3270;Scheibbs;;;2CHIF
+348;Spahija;Blin;1;11-Dez-99;Habichergasse;35;1190;Wien;;;2CHIF
+349;Stockinger;Manuel;1;31-Dez-00;Korbg.;56;1040;Wien;;;2CHIF
+350;Strobl;Johannes;1;15-Mai-00;Grinzinger Stra�e;26;1120;Wien;;;2CHIF
+351;Svoboda;Frantisek;1;25-Mai-99;Lawieserstra�e;35;2361;Laxenburg;;;2CHIF
+352;Tolan;Christopher;1;06-Okt-00;J. Ferschnerstra�e;66/3;1210;Wien;;;2CHIF
+353;Uhlenhut;Elliott;1;05-Nov-00;In der Haide;28;1130;Wien;;;2CHIF
+354;Winkler;Miles;1;19-Sep-99;Zinckgasse;7/6/1;2823;Pitten;;;2CHIF
+355;Znaymer;Kevin;1;24-Apr-00;Hippgasse;8/27;7464;Althodis;;;2CHIF
+356;Arslan;Boris;1;19-Jun-00;Penzingerstra�e;8/2/2/6;7152;Pamhagen;;;2DHIF
+357;Balukcic;Josip;1;17-J�n-00;Hauptstr.;75/3/15;1030;Wien;;;2DHIF
+358;Breunig;Felix;1;19-J�n-00;Penzingerstra�e;5/3;1020;Wien;;;2DHIF
+359;Cavic;Marko;1;17-M�r-01;H�tteldorferstr.;40/1/13;1150;Wien;;;2DHIF
+360;Cobo;Benjamin;1;13-Okt-00;Arnezhoferstra�e;46/5/5;1150;Wien;;;2DHIF
+361;Cosic;Benjamin;1;09-M�r-00;Simmeringer Hauptstr.;83-97/11/19;1030;Wien;;;2DHIF
+362;Gr��;Michael;1;14-Jul-01;Mitterweg;27/4/67;1070;Wien;;;2DHIF
+363;Haas;Sebastian;1;07-Mai-00;Girardigasse;4/5;1210;Wien;;;2DHIF
+364;Hieden;Laurids;1;25-Nov-00;Stauraczg.;1/21;7441;Pilgersdorf;;;2DHIF
+365;Jansel;Franz;1;18-M�r-00;Bacherplatz;4b;3741;Pulkau;;;2DHIF
+366;Kaiser;Samuel;1;19-M�r-01;Fernkorng.;20;2103;Langenzersdorf;;;2DHIF
+367;Kormann;Stefan;1;07-Apr-01;Wendstattg.;43;1020;Wien;;;2DHIF
+368;Kos;Stefan;1;16-Mai-01;Dr.Shariatistra�e Simorg;16/3/24;1020;Wien;;;2DHIF
+369;Kraj;Sebastian;1;15-M�r-01;Herndlg.;72A/3/1;1100;Wien;;;2DHIF
+370;Kurz;Lorin;1;10-Mai-01;Fleischmanng.;2;8230;Hartberg;;;2DHIF
+371;Luick;Timo;1;07-Okt-01;Rotenhofg.;60;3400;Klosterneuburg;;;2DHIF
+372;Mader;Daniel;1;25-Apr-00;Marktgasse;74;2380;Perchtoldsdorf;;;2DHIF
+373;Mavraj;Granit;1;05-J�n-01;Kierlingerstra�e;44/A4/33;1200;Wien;;;2DHIF
+374;Nossal;Dominik;1;12-Apr-01;Keinergasse;34/14/20;1160;Wien;;;2DHIF
+375;Polakowski;Kamil;1;18-Sep-00;Vorgartenstra�e;119/2/2;1200;Wien;;;2DHIF
+376;Salaam;Marvin;1;06-Feb-01;Breitenfurterstr.;240/1/3;1050;Wien;;;2DHIF
+377;Schneider;Alexander;1;03-Mai-01;Herzmansky Orlandog.;63;2301;Gro�enzersdorf;;;2DHIF
+378;Stiegler;Leon;1;26-Aug-01;Halbgasse;100;1234;Wien;;;2DHIF
+379;Strimitzer;Daniel;1;18-Jun-00;G�nserstra�e;35-37/33/3;1150;Wien;;;2DHIF
+380;Tran;Phuc;1;23-Nov-01;Hietzinger Hauptstra�e;25/5/2;2380;Perchtoldsdorf;;;2DHIF
+381;Vilimek;Stefan;1;13-Feb-01;Steudelg.;7/2/9;2361;Laxenburg;;;2DHIF
+382;Wagner;Stefan;1;19-M�r-01;Lindengasse;53;1050;Wien;;;2DHIF
+383;Zeisz;Gabriel;1;03-Dez-00;Dornbacherstra�e;392;1160;Wien;;;2DHIF
+384;Belegic;Asija;2;09-Aug-01;Kenyongasse;21;1100;Wien;;;2EHIF
+385;Buleetwa;Kevin;1;14-Aug-01;Eipeldauerstr.;28/17;1180;Wien;;;2EHIF
+386;Deutner;Gabriel;1;04-M�r-02;Engerthstra�e;6/3/7;3701;Gro�weikersdorf;;;2EHIF
+387;Dobias;Benjamin;1;22-Apr-00;Margareteng�rtel;219/9/2;1020;Wien;;;2EHIF
+388;Faltl;Philipp;1;20-Apr-98;Einfahrtstr.;7/9;3281;Oberndorf;;;2EHIF
+389;Gadermaier;Sophie;2;17-Dez-00;Nikolsdorfergasse;24A/3/10;1190;Wien;;;2EHIF
+390;Galler;Thomas;1;12-Nov-00;Sandleiteng.;98;2483;Ebreichsdorf;;;2EHIF
+391;Gangl;Daniel;1;21-Aug-00;Kn�llgasse;28/32;1225;Wien;;;2EHIF
+392;H�ssler;Andreas;1;17-Dez-00;Kierlingerstra�e;6;1150;Wien;;;2EHIF
+393;Herdlicka;Raphael;1;14-Apr-99;Theodor-Storm-Weg;30;1230;Wien;;;2EHIF
+394;Jonas;Raffael;1;14-Jun-00;Weststr.;67-73/1/2;1040;Wien;;;2EHIF
+395;Kern;Clemens;1;11-J�n-02;Dr. Winterweg;18/3/9;1110;Wien;;;2EHIF
+396;Kokorovic;Lukas;1;02-Sep-00;Am Weissen Kreuz;53;1050;Wien;;;2EHIF
+397;Mages;Thomas;1;16-Feb-01;Schillerstra�e;31/27;1200;Wien;;;2EHIF
+398;Mayer;Valentin;1;22-Dez-00;Abt Hauswirth Str.;4/6;2454;Trautmannsdorf;;;2EHIF
+399;Ploder;Philipp;1;21-Dez-99;Penzingerstra�e;174-180/12/6;1150;Wien;;;2EHIF
+400;Saric;Laura;2;25-Apr-01;Gebirgsg.;2-14/7/50;2443;Stotzing;;;2EHIF
+401;Scheiblauer;David Lu;1;30-Nov-99;Welzergasse;4/5;1030;Wien;;;2EHIF
+402;Schleis;Diego;1;28-Sep-00;Penzingerstra�e;68-70/4/25;2560;Berndorf;;;2EHIF
+403;Schmidt;Aaron;1;28-Mai-01;Am Kanal;6/38/6;1040;Wien;;;2EHIF
+404;Sch�fmann;Maximilian;1;13-Feb-01;Schlossgasse;28/10;1020;Wien;;;2EHIF
+405;Schuecker;Matthias;1;05-Jul-99;Baumgasse;94;1120;Wien;;;2EHIF
+406;Shahjahan;Sujit;1;21-Sep-01;Frankenberggasse;3/10/11;1170;Wien;;;2EHIF
+407;Starzer;Fiona;2;10-Jul-00;G�rtschach;13/13;1210;Wien;;;2EHIF
+408;Stephan;Marco;1;15-Mai-99;Pohlgasse;62/6;2483;Ebreichsdorf;;;2EHIF
+409;Stuhlmeier;Daniell Kao;1;27-J�n-03;Hippgasse;1A;1230;Wien;;;2EHIF
+410;Toth;Samuel;1;29-J�n-00;Rauchfangkehrerg.;15/6;2544;Leopoldsdorf;;;2EHIF
+411;Waidmann;Aaron;1;10-Jun-00;Steinerg.;2;1160;Wien;;;2EHIF
+412;Wendlinger;Peter;1;31-Aug-01;Blindengasse;25/16/30;1100;Wien;;;2EHIF
+413;Zuba;Felix;1;03-Feb-01;Wienerflurg.;14/19/4;1130;Wien;;;2EHIF
+414;Berger;Dominik;1;27-Jun-94;Grafendorf;3-5/64/7;1110;Wien;;;3ABIF
+415;Eisenhut;Wolfgang;1;14-Feb-68;Vivaldig.;55;1030;Wien;;;3ABIF
+416;Heissenberger;Bernadette;2;10-Apr-81;S�dhang;36/7/38;1050;Wien;;;3ABIF
+417;Hepperger;Helmut;1;15-Jun-76;Sch�pfergasse;94;1020;Wien;;;3ABIF
+418;Hofbauer;Martin;1;01-Apr-62;Handelskai;2;3021;Pre�baum;;;3ABIF
+419;Lemanski;Viktor;1;26-Feb-89;Gablenzg.;10;6020;Innsbruck;;;3ABIF
+420;Liu;Julia;2;04-Mai-94;Guglgasse;1/9;2514;M�llersdorf;;;3ABIF
+421;Ranits;Christian;1;16-Mai-91;Mitterweg;155/5;2542;Kottingbrunn;;;3ABIF
+422;Acar;Celine;2;12-J�n-99;Talgasse;12A;1210;Wien;;;3AHBGM
+423;Bak;Nikolaus;1;18-Mai-95;Felix-Slavikstra�e;41/25;1140;Wien;;;3AHBGM
+424;Beda;Adam;1;04-Apr-98;Mariazellergasse;27/4/67;1110;Wien;;;3AHBGM
+425;Bogicevic;Stefan;1;13-Feb-97;Rothneusiedlerstra�e;35-37/3/9;1100;Wien;;;3AHBGM
+426;Brainovic;Hannes;1;29-J�n-99;Welzergasse;27/36/12;1210;Wien;;;3AHBGM
+427;Dawid;Tobias;1;16-J�n-97;Josefweg;60/3/19;1030;Wien;;;3AHBGM
+428;Dawoud;Salma;2;28-M�r-00;Fritz Preglg;33;1120;Wien;;;3AHBGM
+429;Duric;Ivana;2;18-Sep-00;Waldgasse;1;1160;Wien;;;3AHBGM
+430;Evstratov;Mikhail;1;02-Mai-97;Laxenburgerstr.;67/21;1160;Wien;;;3AHBGM
+431;Gugler;Lucas;1;26-Okt-00;Plenergasse;260;2333;Leopoldsdorf;;;3AHBGM
+432;Nickel-Kovacsics;Luana;2;18-Feb-99;Schumanngasse;32/10;2443;Leithaprodersdorf;;;3AHBGM
+433;Ahmad;Khalid;1;22-Jul-88;Volksheimg.;13/2;1100;Wien;;;3BBIF
+434;Dilek;Murtaza;1;03-J�n-95;Amalienstr.;231;1230;Wien;;;3BBIF
+435;El-Beidak;Raied;1;15-Mai-94;In der Haide;19/17;1190;Wien;;;3BBIF
+436;Esen;Muhammet;1;09-Apr-97;Alserstra�e;88/34;2540;Bad V�slau;;;3BBIF
+437;G�ltekin;Deniz;1;03-Apr-85;Engerthstr.;62/2/1;2500;Baden;;;3BBIF
+438;Hommel;Patrick;1;08-Nov-92;Gumpendorferstr.;22/10;1020;Wien;;;3BBIF
+439;Hosseini;Reza;1;24-Jul-94;Hudlergasse;63;3913;Gro� G�ttfritz;;;3BBIF
+440;Ivanov;Veaceslav;1;06-Okt-96;Tullnerstr.;60;1210;Wien;;;3BBIF
+441;Janka;Johannes;1;21-Aug-97;Rechte Bahnstr.;9/25;1200;Wien;;;3BBIF
+442;Kadnar;Manuel;1;13-M�r-89;Redtenbacherg.;8/2/2/6;1120;Wien;;;3BBIF
+443;Kazemi;Hadi;1;21-Feb-92;M. Hainischstra�e;85;1210;Wien;;;3BBIF
+444;Matzenauer;Lisa;2;03-J�n-93;Zollergasse;12/14;3011;Untertullnerbach;;;3BBIF
+445;Mrazek;Markus;1;11-Sep-83;Mandlgasse;17;1200;Wien;;;3BBIF
+446;Nikolic;Denis;1;19-Nov-93;Dreherstra�e;8/6;1050;Wien;;;3BBIF
+447;N�rnberger;Patrik;1;06-Okt-96;Winzerschulgasse;78/26;1220;Wien;;;3BBIF
+448;�zbal;Selahattin;1;14-Feb-93;Linke Wienzeile;3/10/11;1090;Wien;;;3BBIF
+449;Rahimi;Alireza;1;08-Okt-95;Kummergasse;3;1228;Wien;;;3BBIF
+450;Resch�tzegger;Patrick;1;16-Nov-91;Greiseneckergasse;169;3002;Purkersdorf;;;3BBIF
+451;Sarwari;Fahrid;1;06-Jun-92;Leopoldauerstr.;22;1100;Wien;;;3BBIF
+452;Schulmeister;Markus;1;18-J�n-94;Hauffgasse;3;1180;Wien;;;3BBIF
+453;S�zeri;Mazlum;1;16-Jul-96;Reinprechtsdorferstr.;60/5;1030;Wien;;;3BBIF
+454;Stany;Ralph;1;22-Okt-87;Kaunitzg.;15;1100;Wien;;;3BBIF
+455;Steffel;Nikolai;1;26-M�r-91;Hietzinger Hauptstr.;60/13/1;1210;Wien;;;3BBIF
+456;Takacevic;Bruno;1;18-Sep-85;Am Kanal;2/12;1150;Wien;;;3BBIF
+457;Tscheliesnig;Friedrich;1;18-Okt-88;Armin Diemgasse;34/1b/69;1050;Wien;;;3BBIF
+458;Vasylkiv;Ihor;1;25-Nov-93;Loudonstr.;12/1/29;1100;Wien;;;3BBIF
+459;Voglsam;Felix;1;06-Jun-90;Pernersdorferg.;14;2514;Traiskirchen;;;3BBIF
+460;Vojta;Patrick;1;28-Feb-82;Ant. Baumgartnerstr.;112;2232;Deutsch-Wagram;;;3BBIF
+461;Zdravkovic;Milos;1;23-Aug-89;M�hlh�ufelweg;44/A4/33;1230;Wien;;;3BBIF
+462;Agno;Mark-Angelo;1;10-Feb-00;Enzersfelderstra�e;174/22;7035;Steinbrunn;;;3BHBGM
+463;Alber;Maximilian;1;23-Dez-00;Lichtensteinstr.;6/3/7;1190;Wien;;;3BHBGM
+464;Bindhammer;Patrick;1;04-M�r-99;H�tteldorferstr.;61/1/17;1110;Wien;;;3BHBGM
+465;El Kafrawy;Mahmoud;1;13-Dez-98;Eipeldauerstr.;13/2;3425;Langenlebarn;;;3BHBGM
+466;Hirber;Christoph;1;25-J�n-00;Eduard-Sue�-G.;28;9470;St. Paul;;;3BHBGM
+467;Junuzovic;Samra;2;13-Okt-99;Egon Schiele Gasse;6;8045;Graz;;;3BHBGM
+468;Knezovic;Manuela;2;26-Jul-99;Weidelstr.;24/22;1050;Wien;;;3BHBGM
+469;Kospach;Jasmin;2;11-Feb-00;Rauchfangkehrergasse;9/13;2340;M�dling;;;3BHBGM
+470;Makkar;Merna;2;22-Sep-98;Rosenbergen;2b/14/4;3100;St. P�lten;;;3BHBGM
+471;Mandic;Viktor;1;10-Mai-00;Frankenberggasse;30;1190;Wien;;;3BHBGM
+472;Martic;Clarissa;2;20-Okt-99;Sautergasse;1/10;1150;Wien;;;3BHBGM
+473;Martinek;Elias;1;22-Jul-00;Margareteng�rtel;7/2/9;1210;Wien;;;3BHBGM
+474;Muschka;Nico;1;04-Dez-99;Margarentstr.;51/1/14;1100;Wien;;;3BHBGM
+475;Nevenkic;Juliana;2;03-J�n-01;Felbigergasse;105;1030;Wien;;;3BHBGM
+476;Peszt;Lisa-Marie;2;22-Feb-00;Heinestr.;17;1040;Wien;;;3BHBGM
+477;Redl;Anna;2;23-Apr-00;Schweglerstra�e;291/1/1;1210;Wien;;;3BHBGM
+478;Rodila;Aurelia;2;27-Apr-00;Haydng.;8/2B/7;1050;Wien;;;3BHBGM
+479;Saliji;Merita;2;12-M�r-00;Obere Amtshausgasse;10;2345;Brunn am Gebirge;;;3BHBGM
+480;Stiastny;Florian;1;23-Jul-00;Wehlistra�e;7/5;1020;Wien;;;3BHBGM
+481;Wlodek;Konrad;1;14-Okt-99;Obere Augartenstra�e;24-32/30;1030;Wien;;;3BHBGM
+482;Zecevic;Jelena;2;04-M�r-00;Paulusgasse;4/1/11;1150;Wien;;;3BHBGM
