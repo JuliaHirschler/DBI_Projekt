@@ -3,8 +3,8 @@ import pandas as pd
 from pymongo import MongoClient
 
 # ==== KONFIGURATION ====
-csv_verzeichnis = r"C:\Users\benja\Downloads\CSV-Import-Files-Schuldb"  # roher String (r"") vermeidet \-Fehler
-mongo_url = "mongodb://localhost:27017/"
+csv_verzeichnis = "./CSV-Import-Files-Schuldb/"  # roher String (r"") vermeidet \-Fehler
+mongo_url = "mongodb://root:example@localhost:27017/"
 datenbank_name = "schueler"
 
 # ==== Verbindung zu MongoDB ====
