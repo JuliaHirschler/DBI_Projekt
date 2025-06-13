@@ -13,3 +13,11 @@ export class SchuelerDTO {
     }
 }
 
+function isSchueler(obj): obj is SchuelerDTO {
+    return obj &&
+        typeof obj.id === 'string'  &&
+        typeof obj.S_Vorname === 'string' &&
+        typeof obj.S_Zuname === 'string' &&
+        typeof obj.S_Nr === 'number';
+}
+
