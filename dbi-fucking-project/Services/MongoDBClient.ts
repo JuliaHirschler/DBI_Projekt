@@ -1,14 +1,26 @@
-import clientPromise from '../lib/mongo'
-import {MongoClient, ObjectId} from "mongodb";
+import  {getDatabase} from '../lib/mongo'
+import {ObjectId} from "mongodb";
+import {SchuelerDTO} from "../src/DTO/SchuelerDTO";
+const db = await getDatabase("schueler");
 
-const db = await clientPromise;
+/*
+Liefert ein Array SchulerDTO[] zurück
+SchulerDTO enthält:
+_id
+S_Vorname
+S_Zuname
+S_Nr
+ */
+export async function getSchueler(): Promise<SchuelerDTO[] | undefined> {
+    const schueler = await db.collection('Schueler').find({}).toArray();
 
-export function getSchueler(): Promise<SchuelerDTO[] | undefined> {
-    let schueler = db.collection('Schueler').find({}) as SchuelerDTO[];
     if (!schueler) {
-        return undefined;
+        return Promise.resolve(undefined);
     }else{
-        return schueler;
+        const data: SchuelerDTO[] = schueler.map((schueler) => {
+            return new SchuelerDTO(schueler._id.toString(), schueler.S_Nr, schueler.S_Zuname, schueler.S_Vorname)
+        });
+        return Promise.resolve(data);
     }
 }
 
@@ -31,12 +43,12 @@ export function createMessage(senderId: string, receiverId: string, messageText:
         message: messageText,
         timestamp: new Date(),
     }
-    return db.Nachrichten.insertOne(message);
+    return db.collection("nachrichten").insertOne(message);
 }
 
 /*
 Liefert alle Nachrichten die an einen Schueler gesendet wurden zurück
  */
 export default function getMessages(schuelerId: string){
-    return db.Nachrichten.find({receiverId: schuelerId});
+    return db.collection("nachrichten").find({receiverId: schuelerId});
 }
